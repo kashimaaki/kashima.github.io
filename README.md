@@ -21,8 +21,7 @@
 #### 3. Brass Dictionary
 - **概要**: `Fuse.js` を用いた高速・曖昧検索辞書。
 - **こだわり**: レーベンシュタイン距離アルゴリズムを活用し、ユーザーの「うろ覚え」を補完する体験を設計。
-- 
-https://spontaneous-tiramisu-7ace55.netlify.app/index.html
+- https://spontaneous-tiramisu-7ace55.netlify.app/index.html
 ---
 
 ### Academic 
