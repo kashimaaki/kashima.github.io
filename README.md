@@ -12,6 +12,8 @@
 - **技術**: JavaScript / 確率論的推移モデルの実装。
 - **論理**: $dY_t = (a + bY_t)dt + \lambda dB_t$ の挙動を、直感的なUXへ落とし込みました。
 
+  https://brownian-walk.web.app/
+
 #### 2. BS/PL  App
 - **概要**: アカウント登録不要の自動仕訳家計簿。
 - **論理**: 複式簿記の論理をシステム化。ユーザーの入力負荷（負のインセンティブ）を最小化するメカニズムデザインを追求。
@@ -19,7 +21,8 @@
 #### 3. Brass Dictionary
 - **概要**: `Fuse.js` を用いた高速・曖昧検索辞書。
 - **こだわり**: レーベンシュタイン距離アルゴリズムを活用し、ユーザーの「うろ覚え」を補完する体験を設計。
-
+- 
+https://spontaneous-tiramisu-7ace55.netlify.app/index.html
 ---
 
 ### Academic 
